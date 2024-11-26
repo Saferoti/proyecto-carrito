@@ -1,6 +1,6 @@
 se realizo un carrito de compras desarrolado con javascript en su mayoria,css y HTML
-para ejecutarse con visual estudio con la estencion live server 
-y una copia de la base de datos 
+para ejecutarse es con visual estudio con la estencion live server 
+aqui una copia de la base de datos 
 <!DOCTYPE html>
 <html lang="en">
 
